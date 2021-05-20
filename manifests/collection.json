@@ -1,0 +1,13 @@
+{
+  "id" : "https://rossi-uk.github.io/Chinese_drawings2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in rossi-uk/Chinese_drawings2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://rossi-uk.github.io/Chinese_drawings2/manifests/manifestFINAL.json",
+    "label" : "Drawings of Chinese flowers"
+  } ]
+}
