@@ -20,6 +20,7 @@
     "canvases" : [ {
       "@id" : "http://35511738-773d-4019-885d-af1869b22918",
       "@type" : "sc:Canvas",
+      "thumbnail":"https://rossi-uk.github.io/Chinese_drawings/images/Chinese_drawing_38/full/167,/0/default.jpg",
       "label" : "Empty canvas",
       "height" : 2000,
       "width" : 1335,
