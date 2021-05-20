@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 63,
+    "height" : 38
+  }, {
+    "width" : 125,
+    "height" : 75
+  }, {
+    "width" : 250,
+    "height" : 149
+  }, {
+    "width" : 500,
+    "height" : 297
+  }, {
+    "width" : 1000,
+    "height" : 593
+  }, {
+    "width" : 2000,
+    "height" : 1185
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2000,
+  "@id" : "https://rossi-uk.github.io/Chinese_drawings2/images/Red_rose_region86",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1185
+}
