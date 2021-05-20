@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 63,
+    "height" : 49
+  }, {
+    "width" : 125,
+    "height" : 97
+  }, {
+    "width" : 250,
+    "height" : 194
+  }, {
+    "width" : 500,
+    "height" : 388
+  }, {
+    "width" : 1000,
+    "height" : 775
+  }, {
+    "width" : 2000,
+    "height" : 1549
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2000,
+  "@id" : "https://rossi-uk.github.io/Chinese_drawings2/images/Yellow_rose_region38",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1549
+}
