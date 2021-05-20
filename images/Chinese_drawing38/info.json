@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 42,
+    "height" : 63
+  }, {
+    "width" : 84,
+    "height" : 125
+  }, {
+    "width" : 167,
+    "height" : 250
+  }, {
+    "width" : 334,
+    "height" : 500
+  }, {
+    "width" : 668,
+    "height" : 1000
+  }, {
+    "width" : 1335,
+    "height" : 2000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1335,
+  "@id" : "https://rossi-uk.github.io/Chinese_drawings2/images/Chinese_drawing38",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2000
+}
