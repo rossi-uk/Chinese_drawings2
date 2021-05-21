@@ -73,7 +73,7 @@
         "on" : "http://f8f11e61-62f5-4f47-b5cd-345d4550b0cd"
       } ],
       "otherContent" : [ {
-        "@id" : "http://localhost:8887/annotations1.json",
+        "@id" : "http://localhost:8887/annotations2.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ],
