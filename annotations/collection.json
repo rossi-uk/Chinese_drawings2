@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://rossi-uk.github.io/Chinese_drawings2/annotations/annotations1.json" ],
+  "otherContent" : [ "https://rossi-uk.github.io/Chinese_drawings2/annotations/annotations1.json", "https://rossi-uk.github.io/Chinese_drawings2/annotations/annotations2.json" ],
   "@id" : "https://rossi-uk.github.io/Chinese_drawings2/annotations/collection.json",
   "label" : "All annotations loaded in rossi-uk/Chinese_drawings2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
