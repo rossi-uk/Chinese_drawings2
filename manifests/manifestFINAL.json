@@ -41,7 +41,7 @@
         "on" : "http://16c06c3e-b331-45a0-a729-377f237af133"
       } ],
       "otherContent" : [ {
-        "@id" : "http://sas.gdmrdigital.com/annotation/list/9fe701277eb6f3545ee4ce9ed0f93883.json",
+        "@id" : "http://localhost:8887/annotations1.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ],
@@ -73,7 +73,7 @@
         "on" : "http://f8f11e61-62f5-4f47-b5cd-345d4550b0cd"
       } ],
       "otherContent" : [ {
-        "@id" : "http://sas.gdmrdigital.com/annotation/list/af0a85d32ace7a8e952066d87e725b6f.json",
+        "@id" : "http://localhost:8887/annotations1.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ],
